@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAML2IdentityServer4ZendDesk", "SAML2IdentityServer4ZendDesk.csproj", "{424EA0F1-B9FC-49D1-A26A-9F21901788A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424EA0F1-B9FC-49D1-A26A-9F21901788A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424EA0F1-B9FC-49D1-A26A-9F21901788A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424EA0F1-B9FC-49D1-A26A-9F21901788A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424EA0F1-B9FC-49D1-A26A-9F21901788A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F693078-38FB-478C-97DC-4FE9515F0C94}
+	EndGlobalSection
+EndGlobal
